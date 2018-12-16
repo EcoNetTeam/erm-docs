@@ -4,6 +4,7 @@ We used this links to get inspiration and knowlodge. Feel free to PR to add your
 
 ## Links
 
+- [aldo-leopold-learning-from-the-land](https://www.pbs.org/video/wpt-documentaries-aldo-leopold-learning-land/) - Aldo Leopold, Learning from the Land
 - [aldo-leopold](https://www.aldoleopold.org/post/doing-what-leopold-did/) - Aldo Leopold
 
 - [alan-kay](https://www.youtube.com/watch?v=oKg1hTOQXoY&t=2162&authuser=0) - Alan Kay
