@@ -1,2 +1,2 @@
-# erm-docs
-ERM Documents/ Design/ Processes
+# docs
+Documents/ Design/ Processes
